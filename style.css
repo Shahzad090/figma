@@ -1,0 +1,136 @@
+body {
+  background-color: #2f1893;
+}
+.logo > h3  {
+    width: 20%;
+    font-size: x-large;
+    color: white;
+    display: inline;
+    padding-left: 7%;
+    position: absolute;
+    bottom: 89%;
+}
+.nav-links {
+    padding-top: 2%;
+  width: 35%;
+  padding-left: 32%;
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+  color: white;
+}
+/* .nav-container{
+    display: inline;
+    padding: 7%;
+  display: flex;
+  color: white;
+  font-size:large;
+} */
+.action-button {
+    width: 75px;
+    height: 30px;
+  background-color: red;
+  border-radius: 30px;
+  padding: 0px 10px;
+
+}
+.content {
+    width: 20%;
+    font-size: 58px;
+  font-weight: 600;
+  line-height: 70px;
+  padding-left: 14%;
+  color: white;
+}
+.content > p {
+  font-size: 22px;
+  line-height: 32px;
+  color: aliceblue;
+}
+.button {
+  background-color: #e93a7d;
+  color: #e93a7d;
+  font-size: 16px;
+  width: 157px;
+  height: 50px;
+  border-radius: 100px;
+  border-color: #e93a7d;
+  padding-left: 20%;
+}
+fieldset {
+  width: 24%;
+  height:55%;
+  position: absolute;
+  left: 40%;
+  top: 128px;
+  border-radius: 20px;
+  background-color: white;
+}
+h3 {
+  font-size: 42px;
+  text-align: center;
+  color: #1e0e62;
+}
+.formbar {
+  padding: 5px 5px 0px 30px;
+  margin: 5px 5px 0px 3px;
+  border: 1px solid black;
+  width: 270px;
+  height: 30px;
+  border-radius: 20px;
+  position: relative;
+  left: 60px;
+  top: -15px;
+}
+.chbox {
+  position: relative;
+  left: -244px;
+  top: 0px; 
+}
+.terms {
+  font-size: 18px;
+  text-align: center;
+  width: 300px;
+  position: relative;
+  left: 65px;
+  border: none;
+}
+.bt1 {
+  position: relative;
+  font-size: 18px;
+  right: -57px;
+  bottom: -28px;
+  width: 320px;
+  height: 40px;
+  border-radius: 100px;
+  color: white;
+  background: #2f1893;
+  border-color: #2f1893;
+}
+.bt2 {
+  position: relative;
+  font-size: 18px;
+  right: -57px;
+  bottom: -68px;
+  width: 320px;
+  height: 40px;
+  border-radius: 100px;
+  color: white;
+  background: #1da1f2;
+  border-color: #1da1f2;
+}
+.you {
+  position: relative;
+  top: 54px;
+  left: 80px;
+  font-size: 18px;
+}
+.sg {
+  position: relative;
+  left: 300px;
+  top: 13px;
+  font-size: 18px;
+  color: #25DAC5;
+  border:none ;
+  background-color: white;
+}
